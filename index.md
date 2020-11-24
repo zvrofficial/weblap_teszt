@@ -3,4 +3,4 @@
 <p style="text-align: center;"><em><a href="https://kigyopatika.hu/"><span style="color: #ff0000;">kigyopatika.hu</span></a></em></p>
 </blockquote>
 <p style="text-align: center;">&nbsp;</p>
-<p style="text-align: left;"><strong>K&eacute;p:</strong><strong><img src="https://kigyopatika.hu/image/cache/catalog/_slideshow/kigyo-patika-pharmacy-1-940x441..jpg" alt="" width="480" height="225" /></strong></p>
+<p style="text-align: left;"><strong>K&eacute;p:</strong><strong><img src="https://kigyopatika.hu/image/cache/catalog/_slideshow/kigyo-patika-pharmacy-1-940x441..jpg" alt="" width="480" height="225" /></strong></p> 
